@@ -31,11 +31,6 @@ Welcome to my GitHub portfolio! 🚀 I'm a passionate **MERN STACK Web Developer
 
 ---
 
-## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/webdev-rahul/)
 - 🌐 [Portfolio Website](https://itsdevrahul.github.io/)
