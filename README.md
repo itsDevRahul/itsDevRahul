@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! 🚀 I'm a passionate **MERN STACK Web Developer
 ---
 
 ## 💻 About Me
-- 🔭 Currently working on: **[Sonraj Creations](https://www.instagram.com/sonrajcreations/)**
+- 🔭 Currently working on: **[Sonraj Creations](https://www.instagram.com/sonrajcreations/)** (an E-commerce Website)
 - 🌱 Learning: **Advance JS & thier frameworks**
 - 💬 Ask me about: **Web Development, MERN Stack, or Web desgin**
 - 📫 Reach me at: **[rahul.sonraj.rahul@gmail.com](mailto:rahul.sonraj.rahul@gmail.com)**
