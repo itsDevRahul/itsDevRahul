@@ -1,15 +1,15 @@
 # 🌟 Hi there, I'm [Your Name] 👋
 
-Welcome to my GitHub portfolio! 🚀 I'm a passionate **Web Developer** with a knack for building creative, scalable, and user-friendly applications. Here's a little more about me:
+Welcome to my GitHub portfolio! 🚀 I'm a passionate **MERN STACK Web Developer** with a knack for building creative, scalable, and user-friendly applications. Here's a little more about me:
 
 ---
 
 ## 💻 About Me
-- 🔭 Currently working on: **[Your Current Project](#)**
-- 🌱 Learning: **[Tech Stack or Frameworks You're Learning]**
-- 💬 Ask me about: **Web Development, MERN Stack, or [Your Specialty]**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 🔭 Currently working on: **[Sonraj Creations](https://www.instagram.com/sonrajcreations/)**
+- 🌱 Learning: **Advance JS & thier frameworks**
+- 💬 Ask me about: **Web Development, MERN Stack, or Web desgin**
+- 📫 Reach me at: **[rahul.sonraj.rahul@gmail.com](mailto:rahul.sonraj.rahul@gmail.com)**
+- ⚡ Fun fact: **I can do anything like a allrounder**
 
 ---
 
