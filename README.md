@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! 🚀 I'm a passionate **MERN STACK Web Developer
 - 🌱 Learning: **Advance JS & thier frameworks**
 - 💬 Ask me about: **Web Development, MERN Stack, or Web desgin**
 - 📫 Reach me at: **[rahul.sonraj.rahul@gmail.com](mailto:rahul.sonraj.rahul@gmail.com)**
-- ⚡ Fun fact: **I can do anything like a allrounder**
+- ⚡ Fun fact: **I can do anything like an all-rounder**
 
 ---
 
