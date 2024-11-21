@@ -38,7 +38,7 @@ Here are a few projects that showcase my skills and what I love to do:
 > A brief description of the project.
 - **Tech Stack:** React, Node.js, MongoDB
 - **Key Features:** Feature 1, Feature 2, Feature 3
-- ![Project Demo](https://via.placeholder.com/400x200)
+- ![Project Demo]([https://via.placeholder.com/400x200](https://private-user-images.githubusercontent.com/154493796/293205159-04c1fc54-34de-43ea-aeb9-8d8ed012bc87.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxNTk5MjMsIm5iZiI6MTczMjE1OTYyMywicGF0aCI6Ii8xNTQ0OTM3OTYvMjkzMjA1MTU5LTA0YzFmYzU0LTM0ZGUtNDNlYS1hZWI5LThkOGVkMDEyYmM4Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQwMzI3MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMzJjZTY3Zjk0YzIzYzBkZWFmZmM1OTYxZDY2NTg3MDQzMGU3YzI0MjMwMGUxYzA3MzQ2YzEwZDc0OGM1NzA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ri27k-HwGefTBUEazM710KUZHQ1fmJKPlpZ1ZS7B6bE))
 
 ---
 
