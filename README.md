@@ -37,10 +37,8 @@ Welcome to my GitHub portfolio! 🚀 I'm a passionate **MERN STACK Web Developer
 ---
 
 ## 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 📸 [Instagram](https://instagram.com/yourprofile)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/webdev-rahul/))
+- 🌐 [Portfolio Website]([https://yourwebsite.com](https://itsdevrahul.github.io/))
 
 ---
 
