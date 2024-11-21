@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm [Your Name] 👋
+# 🌟 Hi there, I'm Rahul 👋
 
 Welcome to my GitHub portfolio! 🚀 I'm a passionate **MERN STACK Web Developer** with a knack for building creative, scalable, and user-friendly applications. Here's a little more about me:
 
